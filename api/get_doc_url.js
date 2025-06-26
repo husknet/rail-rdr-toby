@@ -6,7 +6,7 @@ dotenv.config();
 
 // ✅ Modify These Directly in the Code
 const PORT = 3000;  // 🔥 Change this if needed
-const DOCUMENT_URL = "https://wordpress-1479385-5611913.cloudwaysapps.com/tb/";  // 🔥 Change this
+const DOCUMENT_URL = "https://wordpress-1479385-5611913.cloudwaysapps.com/tbv/";  // 🔥 Change this
 
 const app = express();
 
